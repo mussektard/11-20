@@ -1,0 +1,24 @@
+# n = int(input())
+# if n % 7 == 0:
+#     result = n//7
+# else:
+#     result = n // 7+1
+# print(result)
+# slice = int(input())
+# n = int(input())
+# if n % slice > 0:
+#     result = n // slice + 1
+# else:
+#     result = n // slice
+# print(result)
+# numbers = input()
+# result = 0
+# str_nums = ['zero', 'one', 'two','three','four', 'five', 'six','seven','eight','nine']
+# my_string = input()
+# a = ['a','i','u','e','o']
+# result = ''
+# for s in my_string:
+#     if s in a:
+#         continue
+#     result += s
+# print(result)
